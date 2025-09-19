@@ -1,0 +1,17 @@
+secrets.txt
+*.abc
+
+# virtual environments
+.venv/
+venv/
+
+# environment variables
+env/
+.env/
+
+# mac stuff
+.DS_store
+
+# other
+__pycache__
+.idea
